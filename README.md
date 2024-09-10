@@ -13,6 +13,7 @@ Simple Hello World FastAPI to help students get their first VM deployed on a clo
 - I chose Ubuntu Linux.
 - You can use the default VPC but create a new security group.
 - Make sure you enable remote access.
+- Create a new key pair and save the .pem file somewhere safe.
 - When EC2 instance is running, connect to it by selecting the instance and then
 the connect menu option. Use the default connection manager.
 
