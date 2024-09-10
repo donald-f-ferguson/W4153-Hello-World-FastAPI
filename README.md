@@ -58,6 +58,11 @@ INFO:     127.0.0.1:35572 - "GET / HTTP/1.1" 200 OK
 - Mine was 53.208.146.60
 - Navigate to http://54.208.146.60:8000/ (__Make sure you use HTTP. Browser default to HTTPS.__)
 
+# Finish
+
+- Shutdown and terminate your instance.
+- We can make another one later.
+
 
 
 
